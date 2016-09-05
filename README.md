@@ -6,3 +6,5 @@ A collection of raw LoRa test signal samples for the gr-lora project. All sample
 ![alt text](https://github.com/rpp0/gr-lora-samples/blob/master/screenshot.png "Screenshot of a sample displayed with Inspectrum")
 
 Warning: size of the repository is about 2 GB.
+
+If the repository is over its data quota, you may download the samples from my research page instead: http://research.edm.uhasselt.be/~probyns/lora/gr-lora-samples.zip
